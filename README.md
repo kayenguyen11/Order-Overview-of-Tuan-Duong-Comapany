@@ -10,4 +10,4 @@ With mySQL: I create the connection between Jupyter Notebook and Mysql server to
 
 With Tableau: I connect Mysql to Tableau in which I create an Orders Overview Dashboard.
 
-The Order Sales, Chat, Traffic, Discount, ect data was cleaned and uploaded to Mysql server but will not be in the visualization phrase because it was not my focus this time.
+The Order Sales, Chat, Traffic, Discount data was cleaned and uploaded to Mysql server but will not be visualized because it was not my focus this time.
